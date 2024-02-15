@@ -33,7 +33,7 @@ import java.util.*;
 
         for (String str : strs) {
             char[] charArray = str.toCharArray();
-            // Sort the characters in the string
+            // Sort the character
             Arrays.sort(charArray);
             String sortedStr = new String(charArray);
 
