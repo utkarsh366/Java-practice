@@ -34,7 +34,7 @@ public class Main {
         // Create an instance of the Solution class
         Solution solution = new Solution();
 
-        // Call the searchInsert method
+        // Call the searchInsert method(function)
         int result = solution.searchInsert(nums, target);
 
         // Print the result
