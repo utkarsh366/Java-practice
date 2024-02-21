@@ -56,7 +56,7 @@ public class Main {
         return arr1;
     }
 
-    // Define the main method
+    //main method
     public static void main(String[] args) {
         // Test input array
         int[] nums = {5, 7, 7, 8, 8, 10};
